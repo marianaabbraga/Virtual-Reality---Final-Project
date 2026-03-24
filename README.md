@@ -1,9 +1,9 @@
 # Virtual-Reality---Final-Project
-Description
+	Description
 
 This repository contains the Virtual Reality project developed for the Creative Computing and Virtual Reality course at UBI. The goal is to create a VR cooking game where the player receives customer orders and must prepare and deliver each dish correctly within a limited time, inspired by chaotic task simulator games.
 
-Goals
+	Goals
 
 Create a VR cooking simulator focused on sequential customer orders.
 
@@ -13,7 +13,7 @@ Ensure comfortable locomotion inside the kitchen (teleport or continuous movemen
 
 Apply good C# architecture practices, with a Game Manager controlling rounds, orders, and game states.
 
-Technologies and Platform
+	Technologies and Platform
 
 Unity 3D (LTS version defined in the course).
 
@@ -25,7 +25,7 @@ Version control: Git / GitHub.
 
 Target platform: Meta Quest (Android APK build).
 
-Main Features
+	Main Features
 
 Customer order system (order queue, timer, scoring based on speed and accuracy).
 
@@ -35,7 +35,7 @@ Game Manager to handle states (start, round in progress, game over, win/lose).
 
 3D spatial audio (kitchen sounds, success/error feedback, happy/angry customers) and diegetic or World Space UI (e.g., order screen on a kitchen monitor or a wrist display).
 
-Project Phases
+	Project Phases
 
 Phase 1 – GDD and Pitch: game vision, order flow, code architecture diagram, and asset list.
 
