@@ -23,8 +23,6 @@ IDE: Rider or Visual Studio.
 
 Version control: Git / GitHub.
 
-Target platform: Meta Quest (Android APK build).
-
 	Main Features
 
 Customer order system (order queue, timer, scoring based on speed and accuracy).
