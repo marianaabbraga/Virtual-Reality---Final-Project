@@ -652,24 +652,14 @@ MonoBehaviour:
     m_DynamicPanelBehavior: 0
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 103}
+      scrollPos: {x: 0, y: 0}
       m_SelectedIDs:
-      - m_Data: -337350
+      - m_Data: 217404
       m_LastClickedID:
-        m_Data: -337350
+        m_Data: 217404
       m_ExpandedIDs:
-      - m_Data: -337350
-      - m_Data: -334934
-      - m_Data: -334930
-      - m_Data: -331614
-      - m_Data: -331602
-      - m_Data: -324466
-      - m_Data: -321590
-      - m_Data: -312926
-      - m_Data: -312680
-      - m_Data: -293166
-      - m_Data: -290818
-      - m_Data: 221368
+      - m_Data: -284568
+      - m_Data: -283332
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1354,7 +1344,7 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: -0.10315468, y: 0.7530134, z: -0.12167214, w: -0.6383912}
     speed: 2
-    m_Value: {x: -0.10286148, y: 0.75453675, z: -0.1219183, w: -0.6365766}
+    m_Value: {x: -0.10315468, y: 0.7530134, z: -0.12167214, w: -0.63839126}
   m_Size:
     m_Target: 57.82081
     speed: 2
@@ -1599,7 +1589,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Models
+    - Assets/Scenes
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -1609,22 +1599,21 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Models
+  - Assets/Scenes
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral
+  m_LastProjectPath: C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral
   m_LockTracker:
     m_IsLocked: 0
   m_LastLocalAssetsSearchArea: 1
   m_FolderTreeState:
     scrollPos: {x: 0, y: 79}
     m_SelectedIDs:
-    - m_Data: 216928
+    - m_Data: 215036
     m_LastClickedID:
-      m_Data: 216928
+      m_Data: 215036
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 216920
-    - m_Data: 216926
+    - m_Data: 215016
     - m_Data: 1000000000
     - m_Data: 2147483647
     m_RenameOverlay:
@@ -1685,8 +1674,8 @@ MonoBehaviour:
       m_ResourceFile: 
   m_ListAreaState:
     m_SelectedInstanceIDs:
-    - m_Data: -337350
-    m_LastClickedInstanceID: -337350
+    - m_Data: 217404
+    m_LastClickedInstanceID: 217404
     m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs:
     - m_Data: 0

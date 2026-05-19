@@ -532,25 +532,25 @@
       <HintPath>C:\Program Files\Unity\Hub\Editor\6000.3.9f1\Editor\Data\Managed\UnityEngine\UnityEditor.XRModule.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Collections.LowLevel.ILSupport">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\PackageCache\com.unity.collections@aea9d3bd5e19\Unity.Collections.LowLevel.ILSupport\Unity.Collections.LowLevel.ILSupport.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\PackageCache\com.unity.collections@aea9d3bd5e19\Unity.Collections.LowLevel.ILSupport\Unity.Collections.LowLevel.ILSupport.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\PackageCache\com.unity.ext.nunit@d8c07649098d\net40\unity-custom\nunit.framework.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\PackageCache\com.unity.ext.nunit@d8c07649098d\net40\unity-custom\nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="System.IO.Hashing">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\PackageCache\com.unity.collections@aea9d3bd5e19\Unity.Collections.Tests\System.IO.Hashing\System.IO.Hashing.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\PackageCache\com.unity.collections@aea9d3bd5e19\Unity.Collections.Tests\System.IO.Hashing\System.IO.Hashing.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\PackageCache\com.unity.visualscripting@191c0d7e3b69\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\PackageCache\com.unity.visualscripting@191c0d7e3b69\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\PackageCache\com.unity.nuget.newtonsoft-json@4dfd81071c64\Runtime\Newtonsoft.Json.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\PackageCache\com.unity.nuget.newtonsoft-json@4dfd81071c64\Runtime\Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="Mono.Cecil">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\PackageCache\com.unity.nuget.mono-cecil@ecb9724e46ff\Mono.Cecil.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\PackageCache\com.unity.nuget.mono-cecil@ecb9724e46ff\Mono.Cecil.dll</HintPath>
     </Reference>
     <Reference Include="System.Runtime.CompilerServices.Unsafe">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\PackageCache\com.unity.collections@aea9d3bd5e19\Unity.Collections.Tests\System.Runtime.CompilerServices.Unsafe\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\PackageCache\com.unity.collections@aea9d3bd5e19\Unity.Collections.Tests\System.Runtime.CompilerServices.Unsafe\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Android.Types">
       <HintPath>C:\Program Files\Unity\Hub\Editor\6000.3.9f1\Editor\Data\PlaybackEngines\AndroidPlayer\Unity.Android.Types.dll</HintPath>
@@ -925,481 +925,481 @@
       <HintPath>C:\Program Files\Unity\Hub\Editor\6000.3.9f1\Editor\Data\NetStandard\compat\2.1.0\shims\netfx\System.Xml.Serialization.dll</HintPath>
     </Reference>
     <Reference Include="Oculus.Interaction.UnityXR">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Oculus.Interaction.UnityXR.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Oculus.Interaction.UnityXR.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.Hands.Analytics.Hooks.Editor">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Unity.XR.Hands.Analytics.Hooks.Editor.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Unity.XR.Hands.Analytics.Hooks.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.CoreUtils.Editor">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Unity.XR.CoreUtils.Editor.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Unity.XR.CoreUtils.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.OpenXR.Features.OculusQuestSupport.Editor">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Unity.XR.OpenXR.Features.OculusQuestSupport.Editor.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Unity.XR.OpenXR.Features.OculusQuestSupport.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Meta.XR.Editor.UserInterface">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Meta.XR.Editor.UserInterface.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Meta.XR.Editor.UserInterface.dll</HintPath>
     </Reference>
     <Reference Include="Meta.Wit.Composer.Editor">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Meta.Wit.Composer.Editor.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Meta.Wit.Composer.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.SpatialTracking">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="Meta.XR.Editor.ToolingSupport.RuntimeOptimizer">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Meta.XR.Editor.ToolingSupport.RuntimeOptimizer.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Meta.XR.Editor.ToolingSupport.RuntimeOptimizer.dll</HintPath>
     </Reference>
     <Reference Include="Oculus.VR">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Oculus.VR.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Oculus.VR.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rendering.LightTransport.Editor">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Unity.Rendering.LightTransport.Editor.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Unity.Rendering.LightTransport.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Core.ShaderLibrary">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
     </Reference>
     <Reference Include="Meta.XR.BuildingBlocks">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Meta.XR.BuildingBlocks.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Meta.XR.BuildingBlocks.dll</HintPath>
     </Reference>
     <Reference Include="Oculus.Interaction.Samples.Editor.UISet">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Oculus.Interaction.Samples.Editor.UISet.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Oculus.Interaction.Samples.Editor.UISet.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.SettingsProvider.Editor">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Unity.VisualScripting.SettingsProvider.Editor.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Unity.VisualScripting.SettingsProvider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Meta.Voice.NLayer">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Meta.Voice.NLayer.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Meta.Voice.NLayer.dll</HintPath>
     </Reference>
     <Reference Include="PPv2URPConverters">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\PPv2URPConverters.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\PPv2URPConverters.dll</HintPath>
     </Reference>
     <Reference Include="Unity.AI.Navigation.Updater">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Unity.AI.Navigation.Updater.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Unity.AI.Navigation.Updater.dll</HintPath>
     </Reference>
     <Reference Include="Oculus.Interaction.OVR.Editor">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Oculus.Interaction.OVR.Editor.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Oculus.Interaction.OVR.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.AI.Navigation.Editor">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Unity.AI.Navigation.Editor.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Unity.AI.Navigation.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Meta.XR.MultiplayerBlocks.Shared">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Meta.XR.MultiplayerBlocks.Shared.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Meta.XR.MultiplayerBlocks.Shared.dll</HintPath>
     </Reference>
     <Reference Include="VoiceSDK.Editor">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\VoiceSDK.Editor.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\VoiceSDK.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Core.Runtime.Shared">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Unity.RenderPipelines.Core.Runtime.Shared.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Unity.RenderPipelines.Core.Runtime.Shared.dll</HintPath>
     </Reference>
     <Reference Include="Oculus.Interaction.Editor">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Oculus.Interaction.Editor.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Oculus.Interaction.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Universal.2D.Runtime">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Unity.RenderPipelines.Universal.2D.Runtime.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Unity.RenderPipelines.Universal.2D.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Meta.XR.Editor.PlayCompanion">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Meta.XR.Editor.PlayCompanion.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Meta.XR.Editor.PlayCompanion.dll</HintPath>
     </Reference>
     <Reference Include="Meta.WitAi.TTS">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Meta.WitAi.TTS.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Meta.WitAi.TTS.dll</HintPath>
     </Reference>
     <Reference Include="Meta.Net.endel.nativewebsocket">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Meta.Net.endel.nativewebsocket.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Meta.Net.endel.nativewebsocket.dll</HintPath>
     </Reference>
     <Reference Include="Meta.XR.Editor.Guide.About">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Meta.XR.Editor.Guide.About.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Meta.XR.Editor.Guide.About.dll</HintPath>
     </Reference>
     <Reference Include="Meta.XR.Editor.Tags">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Meta.XR.Editor.Tags.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Meta.XR.Editor.Tags.dll</HintPath>
     </Reference>
     <Reference Include="Oculus.Interaction.InterfaceSupport">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Oculus.Interaction.InterfaceSupport.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Oculus.Interaction.InterfaceSupport.dll</HintPath>
     </Reference>
     <Reference Include="Unity.UnifiedRayTracing.Runtime">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Unity.UnifiedRayTracing.Runtime.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Unity.UnifiedRayTracing.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.SpatialTracking">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="Oculus.Interaction">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Oculus.Interaction.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Oculus.Interaction.dll</HintPath>
     </Reference>
     <Reference Include="Meta.XR.MultiplayerBlocks.Fusion.Editor">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Meta.XR.MultiplayerBlocks.Fusion.Editor.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Meta.XR.MultiplayerBlocks.Fusion.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Meta.XR.BuildingBlocks.Editor">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Meta.XR.BuildingBlocks.Editor.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Meta.XR.BuildingBlocks.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Meta.XR.Audio.Editor">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Meta.XR.Audio.Editor.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Meta.XR.Audio.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.OpenXR">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Unity.XR.OpenXR.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Unity.XR.OpenXR.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Meta.XR.Editor.Id">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Meta.XR.Editor.Id.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Meta.XR.Editor.Id.dll</HintPath>
     </Reference>
     <Reference Include="Unity.AI.Navigation.Editor.ConversionSystem">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Unity.AI.Navigation.Editor.ConversionSystem.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Unity.AI.Navigation.Editor.ConversionSystem.dll</HintPath>
     </Reference>
     <Reference Include="Meta.XR.ImmersiveDebugger">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Meta.XR.ImmersiveDebugger.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Meta.XR.ImmersiveDebugger.dll</HintPath>
     </Reference>
     <Reference Include="MetaXRSimulatorCore.Editor">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\MetaXRSimulatorCore.Editor.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\MetaXRSimulatorCore.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll</HintPath>
     </Reference>
     <Reference Include="Meta.XR.Editor.Notifications">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Meta.XR.Editor.Notifications.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Meta.XR.Editor.Notifications.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Flow">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Unity.VisualScripting.Flow.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Unity.VisualScripting.Flow.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.Hands">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Unity.XR.Hands.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Unity.XR.Hands.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Meta.Wit.Composer">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Meta.Wit.Composer.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Meta.Wit.Composer.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.XR.LegacyInputHelpers">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
     </Reference>
     <Reference Include="Meta.XR.Editor.StatusMenu">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Meta.XR.Editor.StatusMenu.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Meta.XR.Editor.StatusMenu.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualStudio.Editor">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Meta.WitAi.Editor">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Meta.WitAi.Editor.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Meta.WitAi.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.XR.LegacyInputHelpers">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
     </Reference>
     <Reference Include="Meta.XR.BuildingBlocks.DepthAPI">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Meta.XR.BuildingBlocks.DepthAPI.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Meta.XR.BuildingBlocks.DepthAPI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.InputSystem.ForUI">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Unity.InputSystem.ForUI.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Unity.InputSystem.ForUI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.GPUDriven.Runtime">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Unity.RenderPipelines.GPUDriven.Runtime.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Unity.RenderPipelines.GPUDriven.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Meta.XR.Editor.Settings">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Meta.XR.Editor.Settings.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Meta.XR.Editor.Settings.dll</HintPath>
     </Reference>
     <Reference Include="Oculus.Platform.Editor">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Oculus.Platform.Editor.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Oculus.Platform.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Meta.XR.ImmersiveDebugger.Interface">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Meta.XR.ImmersiveDebugger.Interface.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Meta.XR.ImmersiveDebugger.Interface.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.State.Editor">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Unity.VisualScripting.State.Editor.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Unity.VisualScripting.State.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Universal.Shaders">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Shaders.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Shaders.dll</HintPath>
     </Reference>
     <Reference Include="Oculus.Interaction.Editor.UnityXR">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Oculus.Interaction.Editor.UnityXR.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Oculus.Interaction.Editor.UnityXR.dll</HintPath>
     </Reference>
     <Reference Include="Meta.XR.ImmersiveDebugger.Editor">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Meta.XR.ImmersiveDebugger.Editor.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Meta.XR.ImmersiveDebugger.Editor.dll</HintPath>
     </Reference>
     <Reference Include="AssistantVoiceCommandCommon.Editor">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\AssistantVoiceCommandCommon.Editor.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\AssistantVoiceCommandCommon.Editor.dll</HintPath>
     </Reference>
     <Reference Include="meta.xr.mrutilitykit">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\meta.xr.mrutilitykit.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\meta.xr.mrutilitykit.dll</HintPath>
     </Reference>
     <Reference Include="Meta.XR.Editor.UPST.Notifications">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Meta.XR.Editor.UPST.Notifications.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Meta.XR.Editor.UPST.Notifications.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Oculus.VR.Editor">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Oculus.VR.Editor.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Oculus.VR.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Oculus.Interaction.Samples.Editor">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Oculus.Interaction.Samples.Editor.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Oculus.Interaction.Samples.Editor.dll</HintPath>
     </Reference>
     <Reference Include="VoiceSDK.Dictation.Editor">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\VoiceSDK.Dictation.Editor.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\VoiceSDK.Dictation.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Meta.XR.MultiplayerBlocks.Shared.Editor">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Meta.XR.MultiplayerBlocks.Shared.Editor.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Meta.XR.MultiplayerBlocks.Shared.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Universal.Runtime">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Runtime.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.OpenXR.Features.ConformanceAutomation">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Unity.XR.OpenXR.Features.ConformanceAutomation.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Unity.XR.OpenXR.Features.ConformanceAutomation.dll</HintPath>
     </Reference>
     <Reference Include="Oculus.Haptics">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Oculus.Haptics.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Oculus.Haptics.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Universal.Config.Runtime">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Config.Runtime.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Config.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Core.Editor.Shared">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Unity.RenderPipelines.Core.Editor.Shared.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Unity.RenderPipelines.Core.Editor.Shared.dll</HintPath>
     </Reference>
     <Reference Include="Meta.XR.Editor.Reflection">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Meta.XR.Editor.Reflection.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Meta.XR.Editor.Reflection.dll</HintPath>
     </Reference>
     <Reference Include="Unity.InputSystem">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Unity.InputSystem.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Unity.InputSystem.dll</HintPath>
     </Reference>
     <Reference Include="Meta.XR.Editor.ToolingSupport">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Meta.XR.Editor.ToolingSupport.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Meta.XR.Editor.ToolingSupport.dll</HintPath>
     </Reference>
     <Reference Include="Meta.Voice.Hub.Runtime">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Meta.Voice.Hub.Runtime.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Meta.Voice.Hub.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Core.Editor">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Unity.RenderPipelines.Core.Editor.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Unity.RenderPipelines.Core.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Oculus.Interaction.Samples">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Oculus.Interaction.Samples.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Oculus.Interaction.Samples.dll</HintPath>
     </Reference>
     <Reference Include="Oculus.Interaction.OVR.Samples">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Oculus.Interaction.OVR.Samples.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Oculus.Interaction.OVR.Samples.dll</HintPath>
     </Reference>
     <Reference Include="Meta.XR.MultiplayerBlocks.NGO.Editor">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Meta.XR.MultiplayerBlocks.NGO.Editor.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Meta.XR.MultiplayerBlocks.NGO.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI.Analytics">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\UnityEditor.UI.Analytics.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\UnityEditor.UI.Analytics.dll</HintPath>
     </Reference>
     <Reference Include="Meta.XR.Editor.EditorCoroutine">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Meta.XR.Editor.EditorCoroutine.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Meta.XR.Editor.EditorCoroutine.dll</HintPath>
     </Reference>
     <Reference Include="meta.xr.mrutilitykit.editor">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\meta.xr.mrutilitykit.editor.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\meta.xr.mrutilitykit.editor.dll</HintPath>
     </Reference>
     <Reference Include="Meta.WitAI.Lib.Editor">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Meta.WitAI.Lib.Editor.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Meta.WitAI.Lib.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.Management">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Unity.XR.Management.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Unity.XR.Management.dll</HintPath>
     </Reference>
     <Reference Include="Meta.Wit.Dictation.Editor">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Meta.Wit.Dictation.Editor.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Meta.Wit.Dictation.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Meta.WitAi.TTS.Editor">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Meta.WitAi.TTS.Editor.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Meta.WitAi.TTS.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.Hands.Analytics.Editor">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Unity.XR.Hands.Analytics.Editor.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Unity.XR.Hands.Analytics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.AI.Navigation">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Unity.AI.Navigation.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Unity.AI.Navigation.dll</HintPath>
     </Reference>
     <Reference Include="VoiceSDK.Runtime">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\VoiceSDK.Runtime.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\VoiceSDK.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="AssistantVoiceCommandCommon">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\AssistantVoiceCommandCommon.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\AssistantVoiceCommandCommon.dll</HintPath>
     </Reference>
     <Reference Include="Meta.XR.BuildingBlocks.AIBlocks">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Meta.XR.BuildingBlocks.AIBlocks.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Meta.XR.BuildingBlocks.AIBlocks.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Universal.2D.Editor.Overrides">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Unity.RenderPipelines.Universal.2D.Editor.Overrides.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Unity.RenderPipelines.Universal.2D.Editor.Overrides.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Universal.Editor">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Editor.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Unity.Timeline.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Shared.Editor">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Unity.VisualScripting.Shared.Editor.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Unity.VisualScripting.Shared.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Searcher.Editor">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Unity.Searcher.Editor.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Unity.Searcher.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PlasticSCM.Editor">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Oculus.Platform">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Oculus.Platform.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Oculus.Platform.dll</HintPath>
     </Reference>
     <Reference Include="Meta.XR.Editor.RemoteContent">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Meta.XR.Editor.RemoteContent.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Meta.XR.Editor.RemoteContent.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Burst.Editor">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Unity.Burst.Editor.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Unity.Burst.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Meta.XR.Editor.TelemetryUI">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Meta.XR.Editor.TelemetryUI.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Meta.XR.Editor.TelemetryUI.dll</HintPath>
     </Reference>
     <Reference Include="Meta.Voice.Opus">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Meta.Voice.Opus.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Meta.Voice.Opus.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.CoreUtils">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Unity.XR.CoreUtils.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Unity.XR.CoreUtils.dll</HintPath>
     </Reference>
     <Reference Include="Meta.Voice.VSDKHub.Editor">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Meta.Voice.VSDKHub.Editor.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Meta.Voice.VSDKHub.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Core">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Unity.VisualScripting.Core.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Unity.VisualScripting.Core.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Mathematics.Editor">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="VoiceSDK.Runtime.Composer">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\VoiceSDK.Runtime.Composer.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\VoiceSDK.Runtime.Composer.dll</HintPath>
     </Reference>
     <Reference Include="Meta.VoiceSDK.Mic.Other">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Meta.VoiceSDK.Mic.Other.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Meta.VoiceSDK.Mic.Other.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.OpenXR.Features.RuntimeDebugger.Editor">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Unity.XR.OpenXR.Features.RuntimeDebugger.Editor.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Unity.XR.OpenXR.Features.RuntimeDebugger.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Meta.XR.Guides.Editor">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Meta.XR.Guides.Editor.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Meta.XR.Guides.Editor.dll</HintPath>
     </Reference>
     <Reference Include="AssistantCoreSDKRuntime">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\AssistantCoreSDKRuntime.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\AssistantCoreSDKRuntime.dll</HintPath>
     </Reference>
     <Reference Include="Meta.XR.Editor.Callbacks">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Meta.XR.Editor.Callbacks.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Meta.XR.Editor.Callbacks.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Core.Runtime">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Unity.RenderPipelines.Core.Runtime.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Unity.RenderPipelines.Core.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Flow.Editor">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Unity.VisualScripting.Flow.Editor.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Unity.VisualScripting.Flow.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Meta.XR.Editor.BuildingBlocks.AIBlocks">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Meta.XR.Editor.BuildingBlocks.AIBlocks.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Meta.XR.Editor.BuildingBlocks.AIBlocks.dll</HintPath>
     </Reference>
     <Reference Include="Meta.WitAi.Lib">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Meta.WitAi.Lib.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Meta.WitAi.Lib.dll</HintPath>
     </Reference>
     <Reference Include="Meta.Wit.Dictation">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Meta.Wit.Dictation.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Meta.Wit.Dictation.dll</HintPath>
     </Reference>
     <Reference Include="VoiceSDK.Editor.Composer">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\VoiceSDK.Editor.Composer.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\VoiceSDK.Editor.Composer.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Collections">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Unity.Collections.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Unity.Collections.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.Hands.Editor">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Unity.XR.Hands.Editor.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Unity.XR.Hands.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.OpenXR.Features.OculusQuestSupport">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Unity.XR.OpenXR.Features.OculusQuestSupport.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Unity.XR.OpenXR.Features.OculusQuestSupport.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.OpenXR.Features.MetaQuestSupport.Editor">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Unity.XR.OpenXR.Features.MetaQuestSupport.Editor.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Unity.XR.OpenXR.Features.MetaQuestSupport.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.OpenXR.Features.MetaQuestSupport">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Unity.XR.OpenXR.Features.MetaQuestSupport.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Unity.XR.OpenXR.Features.MetaQuestSupport.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Meta.XR.Audio">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Meta.XR.Audio.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Meta.XR.Audio.dll</HintPath>
     </Reference>
     <Reference Include="Meta.VoiceSDK.Mic.WebGL">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Meta.VoiceSDK.Mic.WebGL.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Meta.VoiceSDK.Mic.WebGL.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Mathematics">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Unity.Mathematics.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Unity.Mathematics.dll</HintPath>
     </Reference>
     <Reference Include="Oculus.Haptics.Editor">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Oculus.Haptics.Editor.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Oculus.Haptics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="VoiceSDK.Telemetry">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\VoiceSDK.Telemetry.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\VoiceSDK.Telemetry.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Multiplayer.Center.Common">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Unity.Multiplayer.Center.Common.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Unity.Multiplayer.Center.Common.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Burst">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Unity.Burst.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Unity.Burst.dll</HintPath>
     </Reference>
     <Reference Include="Meta.XR.MetaWand.Editor">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Meta.XR.MetaWand.Editor.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Meta.XR.MetaWand.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Meta.XR.EnvironmentDepth">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Meta.XR.EnvironmentDepth.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Meta.XR.EnvironmentDepth.dll</HintPath>
     </Reference>
     <Reference Include="Meta.VoiceSDK.Mic.Common">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Meta.VoiceSDK.Mic.Common.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Meta.VoiceSDK.Mic.Common.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Core.Editor">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Unity.VisualScripting.Core.Editor.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Unity.VisualScripting.Core.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.InternalAPIEngineBridge.004">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.004.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.004.dll</HintPath>
     </Reference>
     <Reference Include="AssistantCoreSDKEditor">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\AssistantCoreSDKEditor.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\AssistantCoreSDKEditor.dll</HintPath>
     </Reference>
     <Reference Include="VoiceSDK.Telemetry.Runtime">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\VoiceSDK.Telemetry.Runtime.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\VoiceSDK.Telemetry.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Multiplayer.Center.Editor">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Unity.Multiplayer.Center.Editor.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Unity.Multiplayer.Center.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.Management.Editor">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Unity.XR.Management.Editor.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Unity.XR.Management.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Oculus.Interaction.OVR">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Oculus.Interaction.OVR.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Oculus.Interaction.OVR.dll</HintPath>
     </Reference>
     <Reference Include="Meta.WitAi">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Meta.WitAi.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Meta.WitAi.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.State">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Unity.VisualScripting.State.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Unity.VisualScripting.State.dll</HintPath>
     </Reference>
     <Reference Include="Oculus.VR.Scripts.Editor">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Oculus.VR.Scripts.Editor.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Oculus.VR.Scripts.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipeline.Universal.ShaderLibrary">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Unity.RenderPipeline.Universal.ShaderLibrary.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Unity.RenderPipeline.Universal.ShaderLibrary.dll</HintPath>
     </Reference>
     <Reference Include="Meta.Voice.Hub.Editor">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Meta.Voice.Hub.Editor.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Meta.Voice.Hub.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Collections.Editor">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Unity.Collections.Editor.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Unity.Collections.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ShaderGraph.Editor">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Unity.ShaderGraph.Editor.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Unity.ShaderGraph.Editor.dll</HintPath>
     </Reference>
     <Reference Include="VoiceSDK.Dictation.Runtime">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\VoiceSDK.Dictation.Runtime.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\VoiceSDK.Dictation.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Meta.XR.EnvironmentDepth.Editor">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Meta.XR.EnvironmentDepth.Editor.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Meta.XR.EnvironmentDepth.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Meta.XR.BuildingBlocks.DepthAPI.Editor">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Meta.XR.BuildingBlocks.DepthAPI.Editor.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Meta.XR.BuildingBlocks.DepthAPI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.OpenXR.Editor">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\Unity.XR.OpenXR.Editor.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\Unity.XR.OpenXR.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\projetoSemestral\Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
+      <HintPath>C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral\Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
