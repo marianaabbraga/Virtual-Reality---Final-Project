@@ -8,13 +8,38 @@ public class Ingredient : MonoBehaviour
     public IngredientList ingredientName;
     public IngredientState currentState = IngredientState.Raw;
     
+    [Header("Materiais")]
+    [SerializeField] private Material rawMaterial;
+    [SerializeField] private Material cookedMaterial;
+    [SerializeField] private Material spoiledMaterial;
+    
     [Header("Reset")]
     public Transform resetPoint;
     
     public void ChangeState(IngredientState newState)
     {
         currentState = newState;
+        UpdateMaterial();
         Debug.Log(ingredientName + " está agora: " + newState);
+    }
+    
+    private void UpdateMaterial()
+    {
+        MeshRenderer meshRenderer = GetComponent<MeshRenderer>();
+        if (meshRenderer == null) return;
+
+        switch (currentState)
+        {
+            case IngredientState.Raw:
+                if (rawMaterial != null) meshRenderer.material = rawMaterial;
+                break;
+            case IngredientState.Cooked:
+                if (cookedMaterial != null) meshRenderer.material = cookedMaterial;
+                break;
+            case IngredientState.Spoiled:
+                if (spoiledMaterial != null) meshRenderer.material = spoiledMaterial;
+                break;
+        }
     }
     
     public void ResetPosition()

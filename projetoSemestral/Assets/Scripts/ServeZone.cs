@@ -18,7 +18,6 @@ public class ServeZone : MonoBehaviour
         _timer = delayTime;
     }
     
-    // Deteta se o prato entra na zona de servir
     void OnTriggerEnter(Collider other)
     {
         _obj = other.gameObject;
@@ -28,7 +27,6 @@ public class ServeZone : MonoBehaviour
         }
     }
 
-    // Deteta se o prato sai da zona de servir
     void OnTriggerExit(Collider other)
     {
         if (other.gameObject.CompareTag("Plate"))
