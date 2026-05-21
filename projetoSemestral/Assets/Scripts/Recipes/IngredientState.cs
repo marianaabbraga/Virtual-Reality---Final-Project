@@ -4,6 +4,7 @@ namespace Recipes
     {
         Raw,
         Cooked,
+        Fried,
         Baked,
         Spoiled
     }

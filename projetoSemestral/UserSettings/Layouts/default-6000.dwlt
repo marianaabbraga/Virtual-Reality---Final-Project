@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1536
     height: 868.8
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Hierarchy
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -218,8 +218,8 @@ MonoBehaviour:
     y: 0
     width: 885.6
     height: 536
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 202, y: 226}
+  m_MaxSize: {x: 4002, y: 4026}
   m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
@@ -652,18 +652,17 @@ MonoBehaviour:
     m_DynamicPanelBehavior: 0
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 23}
-      m_SelectedIDs: []
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs:
+      - m_Data: -10288
       m_LastClickedID:
-        m_Data: 0
+        m_Data: -10288
       m_ExpandedIDs:
       - m_Data: -1316
-      - m_Data: 61742
-      - m_Data: 61838
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: '[BuildingBlock] Potato'
-        m_OriginalName: '[BuildingBlock] Potato'
+        m_Name: 
+        m_OriginalName: 
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
@@ -671,10 +670,10 @@ MonoBehaviour:
           width: 0
           height: 0
         m_UserData:
-          m_Data: -10224
+          m_Data: 0
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 0
+        m_OriginalEventType: 11
         m_IsRenamingFilename: 0
         m_TrimLeadingAndTrailingWhitespace: 0
         m_ClientGUIView: {fileID: 8}
@@ -1294,9 +1293,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: -1.7820437, y: -1.7465961, z: 5.429559}
+    m_Target: {x: 0.63464004, y: 0.12078794, z: 4.1169944}
     speed: 2
-    m_Value: {x: -1.7820437, y: -1.7465961, z: 5.429559}
+    m_Value: {x: 0.63464004, y: 0.12078794, z: 4.1169944}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1342,13 +1341,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.43006438, y: -0.010833152, z: 0.005161019, w: 0.9027191}
+    m_Target: {x: 0.22503799, y: 0.05842041, z: -0.0135184545, w: 0.97250384}
     speed: 2
-    m_Value: {x: 0.43006417, y: -0.010833146, z: 0.0051610167, w: 0.90271866}
+    m_Value: {x: 0.22503783, y: 0.058420368, z: -0.013518445, w: 0.9725031}
   m_Size:
-    m_Target: 3.4473562
+    m_Target: 3.35051
     speed: 2
-    m_Value: 3.4473562
+    m_Value: 3.35051
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -1589,7 +1588,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts
+    - Assets
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -1599,23 +1598,23 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scripts
+  - Assets
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\ritar\Desktop\CCRV\2_ano\2_semestre\RV\labs\Virtual-Reality---Final-Project\projetoSemestral
   m_LockTracker:
     m_IsLocked: 0
   m_LastLocalAssetsSearchArea: 1
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 89.20001}
+    scrollPos: {x: 0, y: 79}
     m_SelectedIDs:
-    - m_Data: 84144
+    - m_Data: 78336
     m_LastClickedID:
-      m_Data: 84144
+      m_Data: 78336
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 78316
-    - m_Data: 84128
-    - m_Data: 84144
+    - m_Data: 78336
+    - m_Data: 84146
+    - m_Data: 84168
     - m_Data: 1000000000
     - m_Data: 2147483647
     m_RenameOverlay:
@@ -1650,7 +1649,7 @@ MonoBehaviour:
       m_Data: 0
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 78316
+    - m_Data: 78336
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1677,8 +1676,9 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: []
-    m_LastClickedInstanceID: 0
+    m_SelectedInstanceIDs:
+    - m_Data: -10288
+    m_LastClickedInstanceID: -10288
     m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs:
     - m_Data: 0
@@ -1764,7 +1764,7 @@ MonoBehaviour:
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_LastInspectedObjectInstanceID: -1
-  m_LastVerticalScrollValue: 0
+  m_LastVerticalScrollValue: 1299.2001
   m_GlobalObjectId: 
   m_InspectorMode: 0
   m_LockTracker:

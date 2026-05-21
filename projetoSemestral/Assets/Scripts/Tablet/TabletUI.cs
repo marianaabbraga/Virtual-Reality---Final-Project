@@ -7,10 +7,12 @@ namespace Tablet
     {
         [SerializeField] private RoundManager roundManager;
         [SerializeField] private TabletScreen tabletScreen;
-        [SerializeField] private Orders.OrderManager orderManager;
+        [SerializeField] private OrderManager orderManager;
 
         void Update()
         {
+            tabletScreen.dayNumber.text = roundManager.level.ToString();
+            
             if (roundManager.state == RoundState.Off)
             {
                 tabletScreen.roundInfo.text = "O restaurante abre em:";
@@ -25,8 +27,9 @@ namespace Tablet
     
             tabletScreen.timer.text = string.Format("{0:00}:{1:00}", minutes, seconds);
 
-            tabletScreen.rateText.text = orderManager.ordersRating.ToString("F1") + "%";
-            tabletScreen.doneText.text = orderManager.ordersCompleted.ToString();
+            tabletScreen.rateText.text = orderManager.ordersRating.ToString("F1") + "% / " + roundManager.rateGoal.ToString("F1") + "%";
+            tabletScreen.doneText.text = orderManager.ordersCompleted.ToString() + " / " + roundManager.orderGoal.ToString() ;
+            tabletScreen.rottenText.text = " / " + roundManager.spoiledGoal.ToString();
         }
     }
 }

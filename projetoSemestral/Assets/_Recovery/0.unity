@@ -5933,8 +5933,8 @@ MonoBehaviour:
   - {fileID: 11400000, guid: b124a3d67b3050b44865e625b872ac71, type: 2}
   - {fileID: 11400000, guid: bd6028c2311b8eb44b9515e1b2e5c923, type: 2}
   roundManager: {fileID: 783403351}
-  maxOrders: 3
-  timeBetweenOrders: 10
+  maxOrders: 5
+  timeBetweenOrders: 20
   orderTimeLimit: 120
   ordersRating: 0
   ordersCompleted: 0
@@ -5965,8 +5965,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9bee25a0f1ba35342b3c4eadd998b55a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::RoundManager
-  roundDuration: 210
-  intervalDuration: 15
+  roundDuration: 10
+  intervalDuration: 10
   orderManager: {fileID: 783403349}
   timer: 0
   state: 1
@@ -9163,7 +9163,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: New Text
+  m_text: 1
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: 9ad269c99dcf42b7aedefd83dd5a7b9d, type: 2}
@@ -9197,7 +9197,7 @@ MonoBehaviour:
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 1
-  m_HorizontalAlignment: 1
+  m_HorizontalAlignment: 2
   m_VerticalAlignment: 512
   m_textAlignment: 65535
   m_characterSpacing: 0
@@ -9229,7 +9229,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: -59.91644, y: 5.303053, z: 111.27516, w: 22.502258}
+  m_margin: {x: -59.91644, y: 5.303053, z: 162.31184, w: 22.502258}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -12404,7 +12404,7 @@ MonoBehaviour:
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 0
-  m_HorizontalAlignment: 1
+  m_HorizontalAlignment: 2
   m_VerticalAlignment: 512
   m_textAlignment: 65535
   m_characterSpacing: 0

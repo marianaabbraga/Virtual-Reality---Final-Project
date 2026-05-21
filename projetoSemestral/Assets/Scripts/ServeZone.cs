@@ -1,5 +1,6 @@
 using System.Collections.Generic;
 using Orders;
+using Recipes;
 using UnityEngine;
 
 public class ServeZone : MonoBehaviour
@@ -78,6 +79,10 @@ public class ServeZone : MonoBehaviour
                 Ingredient ingredient = child.GetComponent<Ingredient>();
                 if (ingredient != null)
                 {
+                    if (ingredient.currentState != IngredientState.Raw)
+                    {
+                        ingredient.ChangeState(IngredientState.Raw);
+                    }
                     if (ingredient.resetPoint != null)
                     {
                         ingredient.ResetPosition();
