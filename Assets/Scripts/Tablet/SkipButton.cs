@@ -22,7 +22,7 @@ namespace Tablet
         void Awake()
         {
             buttonImage = button.GetComponent<Image>();
-            button.onClick.AddListener(OnSkipClicked);
+            // REMOVEMOS a linha do AddListener daqui, pois vamos usar o Inspector!
         }
 
         void Update()
@@ -30,7 +30,6 @@ namespace Tablet
             RefreshVisuals();
         }
 
-        /// <summary>Actualiza cor e texto conforme o estado do round.</summary>
         private void RefreshVisuals()
         {
             if (roundManager.state == RoundState.Off)
@@ -45,7 +44,8 @@ namespace Tablet
             }
         }
         
-        private void OnSkipClicked()
+        // MUDOU PARA PUBLIC! Assim o Unity consegue vê-la no On Click()
+        public void OnSkipClicked()
         {
             roundManager.timer = 0f;
         }

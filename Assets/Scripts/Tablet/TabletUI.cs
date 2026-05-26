@@ -8,10 +8,9 @@ namespace Tablet
         [SerializeField] private RoundManager roundManager;
         [SerializeField] private TabletScreen tabletScreen;
         [SerializeField] private OrderManager orderManager;
-
-        // Apenas referências — a lógica está nos próprios scripts dos botões
+        
         [SerializeField] private SkipButton skipButton;
-        [SerializeField] private RecipeButton recipePage;
+        [SerializeField] private RecipePage recipePage;
 
         void Update()
         {

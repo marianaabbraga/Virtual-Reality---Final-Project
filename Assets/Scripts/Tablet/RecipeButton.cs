@@ -13,7 +13,7 @@ namespace Tablet
 
         void Awake()
         {
-            button.onClick.AddListener(recipePage.Toggle);
+            
         }
     }
 }
