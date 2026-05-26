@@ -5,7 +5,7 @@ using UnityEngine;
 
 public class ServeZone : MonoBehaviour
 {
-    [SerializeField] private float delayTime = 5f;
+    [SerializeField] private float delayTime = 3f;
     [SerializeField] private Transform resetPointPlate;
     [SerializeField] private Transform resetPointBowl;
     [SerializeField] private Transform resetPointIngredients;
@@ -40,7 +40,6 @@ public class ServeZone : MonoBehaviour
         }
     }
 
-    // Se estiver dentro da zona, "dispara" o timer que, ao chegar a zero devolve o prato ao armário
     private void Update()
     {
         if (_inZone)

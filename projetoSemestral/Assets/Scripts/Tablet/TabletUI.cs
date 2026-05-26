@@ -29,7 +29,7 @@ namespace Tablet
 
             tabletScreen.rateText.text = orderManager.ordersRating.ToString("F1") + "% / " + roundManager.rateGoal.ToString("F1") + "%";
             tabletScreen.doneText.text = orderManager.ordersCompleted.ToString() + " / " + roundManager.orderGoal.ToString() ;
-            tabletScreen.rottenText.text = " / " + roundManager.spoiledGoal.ToString();
+            tabletScreen.rottenText.text = orderManager.spoiledIngredients.ToString() + " / " + roundManager.spoiledGoal.ToString();
         }
     }
 }

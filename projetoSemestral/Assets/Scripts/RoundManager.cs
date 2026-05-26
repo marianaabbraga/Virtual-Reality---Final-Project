@@ -30,7 +30,7 @@ public class RoundManager : MonoBehaviour
                 {
                     level = 1;
                 }
-                if (level < 4 && orderManager.ordersRating >= rateGoal && orderManager.ordersCompleted >= orderGoal)
+                if (level < 4 && orderManager.ordersRating >= rateGoal && orderManager.ordersCompleted >= orderGoal && orderManager.spoiledIngredients <= spoiledGoal)
                 {
                     level++;
                 }

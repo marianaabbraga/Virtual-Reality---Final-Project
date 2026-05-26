@@ -12,6 +12,7 @@ public class Ingredient : MonoBehaviour
     [SerializeField] private Material rawMaterial;
     [SerializeField] private Material cookedMaterial;
     [SerializeField] private Material spoiledMaterial;
+    public RoundManager roundManager;
     
     [Header("Reset")]
     public Transform resetPoint;
@@ -38,6 +39,10 @@ public class Ingredient : MonoBehaviour
                 break;
             case IngredientState.Spoiled:
                 if (spoiledMaterial != null) meshRenderer.material = spoiledMaterial;
+                if (roundManager.state == RoundState.On)
+                {
+                    Orders.OrderManager.Instance.spoiledIngredients++;
+                }
                 break;
         }
     }
@@ -45,6 +50,7 @@ public class Ingredient : MonoBehaviour
     public void ResetPosition()
     {
         transform.SetParent(null);
+        ChangeState(IngredientState.Raw);
         transform.position = resetPoint.position;
         transform.rotation = resetPoint.rotation;
     }
