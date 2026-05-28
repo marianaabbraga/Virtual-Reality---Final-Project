@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: aff44d171b8eac84bbd5889f9b2cfc7a, type: 3}
   m_Name: "Carne de Porco \xE0 Alentajana"
   m_EditorClassIdentifier: Assembly-CSharp::Recipes.Recipe
-  recipeName: 
+  recipeName: "Carne de porco \xE0 alentejana "
   requiredLevel: 0
   requiredIngredients:
   - ingredientName: 0

@@ -10,11 +10,6 @@ namespace Tablet
     {
         [SerializeField] private Button button;
         [SerializeField] private RecipePage recipePage;
-
-        void Awake()
-        {
-            
-        }
     }
 }
 

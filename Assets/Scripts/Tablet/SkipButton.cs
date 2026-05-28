@@ -22,7 +22,6 @@ namespace Tablet
         void Awake()
         {
             buttonImage = button.GetComponent<Image>();
-            // REMOVEMOS a linha do AddListener daqui, pois vamos usar o Inspector!
         }
 
         void Update()
@@ -43,8 +42,6 @@ namespace Tablet
                 buttonImage.color = colorClose;
             }
         }
-        
-        // MUDOU PARA PUBLIC! Assim o Unity consegue vê-la no On Click()
         public void OnSkipClicked()
         {
             roundManager.timer = 0f;
