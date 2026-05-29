@@ -3,6 +3,17 @@ namespace Recipes
     public enum IngredientList
     {
         Meat,
-        Potato
+        Potato,
+        // New
+        CuboCarnePorco,
+        Ameijoa,
+        CuboBatata,
+        Bacalhau,
+        Cebola,
+        Chouriço,
+        Cenoura,
+        Febra,
+        PalitosBatata,
+        OvoEstrelado
     }
 }

@@ -31,6 +31,8 @@ TagManager:
   - QDSUITextInputField
   - SamplesInfoPanel
   - QDSUIToggleCheckboxRadio
+  - Ingredient
+  - Pot
   layers:
   - Default
   - TransparentFX

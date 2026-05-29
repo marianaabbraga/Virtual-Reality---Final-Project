@@ -17,7 +17,7 @@ MonoBehaviour:
   requiredIngredients:
   - ingredientName: 0
     quantity: 1
-    requiredState: 0
+    requiredState: 1
   - ingredientName: 1
     quantity: 2
-    requiredState: 0
+    requiredState: 1

@@ -1,10 +1,11 @@
 using System.Collections.Generic;
 using Orders;
+using Recipes;
 using UnityEngine;
 
 public class ServeZone : MonoBehaviour
 {
-    [SerializeField] private float delayTime = 5f;
+    [SerializeField] private float delayTime = 3f;
     [SerializeField] private Transform resetPointPlate;
     [SerializeField] private Transform resetPointBowl;
     [SerializeField] private Transform resetPointIngredients;
@@ -18,7 +19,6 @@ public class ServeZone : MonoBehaviour
         _timer = delayTime;
     }
     
-    // Deteta se o prato entra na zona de servir
     void OnTriggerEnter(Collider other)
     {
         _obj = other.gameObject;
@@ -28,7 +28,6 @@ public class ServeZone : MonoBehaviour
         }
     }
 
-    // Deteta se o prato sai da zona de servir
     void OnTriggerExit(Collider other)
     {
         if (other.gameObject.CompareTag("Plate"))
@@ -41,7 +40,6 @@ public class ServeZone : MonoBehaviour
         }
     }
 
-    // Se estiver dentro da zona, "dispara" o timer que, ao chegar a zero devolve o prato ao armário
     private void Update()
     {
         if (_inZone)
@@ -80,6 +78,10 @@ public class ServeZone : MonoBehaviour
                 Ingredient ingredient = child.GetComponent<Ingredient>();
                 if (ingredient != null)
                 {
+                    if (ingredient.currentState != IngredientState.Raw)
+                    {
+                        ingredient.ChangeState(IngredientState.Raw);
+                    }
                     if (ingredient.resetPoint != null)
                     {
                         ingredient.ResetPosition();

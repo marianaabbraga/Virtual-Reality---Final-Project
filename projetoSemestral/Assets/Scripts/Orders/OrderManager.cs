@@ -23,6 +23,7 @@ namespace Orders
         private List<float> _ratings = new List<float>();
 
         public float ordersRating = 0;
+        public int spoiledIngredients = 0;
         public int ordersCompleted = 0;
 
         private void Awake()
@@ -50,6 +51,7 @@ namespace Orders
                 {
                     _ratings.Clear();
                     ordersCompleted = 0;
+                    spoiledIngredients = 0;
                     _resetStats = false;
                 }
             }
